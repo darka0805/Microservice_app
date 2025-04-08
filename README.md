@@ -3,14 +3,8 @@
 1) This project is a set of FastAPI microservices that perform text summarization using Google Gemini API, store results, and expose an authenticated client endpoint.
 2) Project structure
 
- """
-   .
-├── .env                     # Contains API keys and tokens/
-├── business_service.py      # Calls Gemini API to summarize text/
-├── client_service.py        # Authenticated entrypoint for users
-├── db_service.py            # Stores and retrieves summary data
-├── run_all.py               # Script to run all services at once
-"""
+
+![image](https://github.com/user-attachments/assets/3983e011-02e9-496b-a3d2-ab65a140f14b)
 
 Setup Instructions
 1. Create accounts and set your keys
